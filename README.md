@@ -5,7 +5,7 @@
 
 2. Voici la Base de données db_dump.sql, télécharger le et importer le dans Mysql Workbench
 
-![alt text](http://url/to/img.png)
+![Modèle BD](https://github.com/wizkevin/Sales-Analysis-of-a-Retail-Company/blob/main/Modele-etoile-BD.PNG)
 
 ## Analyse de données à l'aide de SQL
 1. Show all customer records
